@@ -1,0 +1,16 @@
+E:\peerky rabbit\question 1\question1\question1\obj\Debug\question1.csproj.AssemblyReference.cache
+E:\peerky rabbit\question 1\question1\question1\obj\Debug\question1.csproj.SuggestedBindingRedirects.cache
+E:\peerky rabbit\question 1\question1\question1\obj\Debug\MainWindow.g.cs
+E:\peerky rabbit\question 1\question1\question1\obj\Debug\App.g.cs
+E:\peerky rabbit\question 1\question1\question1\obj\Debug\question1_MarkupCompile.cache
+E:\peerky rabbit\question 1\question1\question1\obj\Debug\question1_MarkupCompile.lref
+E:\peerky rabbit\question 1\question1\question1\bin\Debug\question1.exe.config
+E:\peerky rabbit\question 1\question1\question1\bin\Debug\question1.exe
+E:\peerky rabbit\question 1\question1\question1\bin\Debug\question1.pdb
+E:\peerky rabbit\question 1\question1\question1\obj\Debug\MainWindow.baml
+E:\peerky rabbit\question 1\question1\question1\obj\Debug\question1.g.resources
+E:\peerky rabbit\question 1\question1\question1\obj\Debug\question1.Properties.Resources.resources
+E:\peerky rabbit\question 1\question1\question1\obj\Debug\question1.csproj.GenerateResource.cache
+E:\peerky rabbit\question 1\question1\question1\obj\Debug\question1.csproj.CoreCompileInputs.cache
+E:\peerky rabbit\question 1\question1\question1\obj\Debug\question1.exe
+E:\peerky rabbit\question 1\question1\question1\obj\Debug\question1.pdb
